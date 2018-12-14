@@ -1,0 +1,1230 @@
+﻿Log file open, 12/07/18 10:15:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: FrameworkTemplate
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284035
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.070s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: A:/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2018.12.07-16.15.12:196][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2018.12.07-16.15.12:197][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.07-16.15.12:198][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:198][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:216][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.07-16.15.12:216][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.07-16.15.12:217][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.07-16.15.12:217][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.07-16.15.12:217][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.07-16.15.12:224][  0]LogHAL: Display: Platform has ~ 32 GB [34305929216 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.07-16.15.12:225][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Scalability.ini]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2018.12.07-16.15.12:225][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.07-16.15.12:226][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.07-16.15.12:226][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Config/Windows/Engine.ini]
+[2018.12.07-16.15.12:226][  0]LogInit: Computer: DESKTOP-N53GCT6
+[2018.12.07-16.15.12:226][  0]LogInit: User: death
+[2018.12.07-16.15.12:226][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.07-16.15.12:226][  0]LogInit: High frequency timer resolution =3.906245 MHz
+[2018.12.07-16.15.12:226][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.12.07-16.15.12:226][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.07-16.15.12:226][  0]LogMemory: Process Physical Memory: 102.78 MB used, 102.78 MB peak
+[2018.12.07-16.15.12:226][  0]LogMemory: Process Virtual Memory: 90.07 MB used, 90.07 MB peak
+[2018.12.07-16.15.12:226][  0]LogMemory: Physical Memory: 14518.16 MB used,  18198.52 MB free, 32716.68 MB total
+[2018.12.07-16.15.12:226][  0]LogMemory: Virtual Memory: 4651.04 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2018.12.07-16.15.12:266][  0]LogInit: Using OS detected language (en-US).
+[2018.12.07-16.15.12:266][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.07-16.15.12:268][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.07-16.15.12:628][  0]LogStreaming: Display: Took  0.363s to InitEngineTextLocalization.
+[2018.12.07-16.15.12:629][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.07-16.15.12:676][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.07-16.15.12:676][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.07-16.15.13:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.07-16.15.13:272][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.07-16.15.13:370][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.12.07-16.15.13:370][  0]LogD3D11RHI:       8088/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.07-16.15.13:373][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.07-16.15.13:373][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.07-16.15.13:373][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.07-16.15.13:384][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.07-16.15.13:384][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.07-16.15.13:384][  0]LogWindows: EnumDisplayDevices:
+[2018.12.07-16.15.13:384][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.12.07-16.15.13:385][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.12.07-16.15.13:385][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.12.07-16.15.13:385][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.12.07-16.15.13:385][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.07-16.15.13:385][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.12.07-16.15.13:385][  0]LogD3D11RHI:   Driver Version: 416.81 (internal:25.21.14.1681, unified:416.81)
+[2018.12.07-16.15.13:385][  0]LogD3D11RHI:      Driver Date: 11-2-2018
+[2018.12.07-16.15.13:386][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.12.07-16.15.13:430][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.07-16.15.13:450][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.07-16.15.13:867][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.07-16.15.13:879][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.07-16.15.13:891][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.07-16.15.13:906][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.07-16.15.13:920][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.07-16.15.13:933][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.07-16.15.13:946][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.07-16.15.13:959][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.07-16.15.13:966][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.07-16.15.14:034][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:035][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.07-16.15.14:037][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.07-16.15.14:098][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.07-16.15.14:098][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.07-16.15.14:121][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.07-16.15.14:121][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.07-16.15.14:133][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.07-16.15.14:147][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.07-16.15.14:159][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.07-16.15.14:173][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.07-16.15.14:219][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.07-16.15.14:219][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.07-16.15.14:219][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.07-16.15.14:280][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (D:/UE4/FrameworkTemplate/FrameworkTemplate/Intermediate/Shaders/WorkingDirectory/5516/).
+[2018.12.07-16.15.14:280][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/death/AppData/Local/Temp/UnrealShaderWorkingDir/B54CB5C24BC2D281FF5EB7AD012B0968/'.
+[2018.12.07-16.15.14:282][  0]LogXGEController: Cleaning working directory: C:/Users/death/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.07-16.15.14:282][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.07-16.15.14:282][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.07-16.15.14:282][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.07-16.15.14:874][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.07-16.15.14:925][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.07-16.15.14:925][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.07-16.15.14:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE4/FrameworkTemplate/FrameworkTemplate/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.07-16.15.14:926][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.07-16.15.14:926][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE4/FrameworkTemplate/FrameworkTemplate/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.07-16.15.14:926][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.07-16.15.14:938][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.07-16.15.14:938][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.07-16.15.14:938][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.07-16.15.14:950][  0]LogDerivedDataCache: Using Local data cache path C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.07-16.15.14:950][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.07-16.15.14:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.07-16.15.14:972][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.07-16.15.14:973][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.07-16.15.14:976][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.07-16.15.15:140][  0]LogAssetRegistry: FAssetRegistry took 0.0340 seconds to start up
+[2018.12.07-16.15.15:433][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.07-16.15.15:591][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.07-16.15.15:596][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.07-16.15.15:596][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.07-16.15.15:596][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.07-16.15.15:596][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.07-16.15.15:614][  0]LogNetVersion: FrameworkTemplate 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2006893865)
+[2018.12.07-16.15.16:139][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.080257 seconds
+[2018.12.07-16.15.16:144][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.07-16.15.16:144][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2018.12.07-16.15.16:144][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.07-16.15.17:804][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.07-16.15.17:818][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.07-16.15.19:420][  0]SourceControl: Source control is disabled
+[2018.12.07-16.15.19:420][  0]SourceControl: Source control is disabled
+[2018.12.07-16.15.19:422][  0]SourceControl: Source control is disabled
+[2018.12.07-16.15.19:423][  0]SourceControl: Source control is disabled
+[2018.12.07-16.15.19:609][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.07-16.15.19:673][  0]LogOcInput: OculusInput pre-init called
+[2018.12.07-16.15.19:815][  0]LogEngine: Initializing Engine...
+[2018.12.07-16.15.19:815][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.07-16.15.19:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.07-16.15.19:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.07-16.15.19:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.07-16.15.19:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.07-16.15.20:053][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.07-16.15.20:068][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.07-16.15.20:082][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.07-16.15.20:094][  0]LogInit: FAudioDevice initialized.
+[2018.12.07-16.15.20:094][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.07-16.15.20:170][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/death/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.07-16.15.20:181][  0]LogInit: Texture streaming: Enabled
+[2018.12.07-16.15.20:199][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.07-16.15.20:212][  0]LogInit: Transaction tracking system initialized
+[2018.12.07-16.15.20:235][  0]BlueprintLog: New page: Editor Load
+[2018.12.07-16.15.20:321][  0]LocalizationService: Localization service is disabled
+[2018.12.07-16.15.21:185][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/' took 0.02s
+[2018.12.07-16.15.21:185][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.07-16.15.21:185][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.07-16.15.21:185][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.07-16.15.21:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.07-16.15.21:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.07-16.15.21:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.07-16.15.21:185][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.07-16.15.21:348][  0]SourceControl: Source control is disabled
+[2018.12.07-16.15.21:348][  0]Cmd: MAP LOAD FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Core/Maps/MainMenu/00_MainMenu_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-16.15.21:349][  0]LogEditorServer: Warning: Can't find file 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Core/Maps/MainMenu/00_MainMenu_P.umap'
+[2018.12.07-16.15.21:349][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-16.15.21:349][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2018.12.07-16.15.21:349][  0]LogFileHelpers: Loading map '00_MainMenu_P' took 0.000
+[2018.12.07-16.15.21:494][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-16.15.21:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-16.15.21:508][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-16.15.21:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.07-16.15.21:550][  0]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.07-16.15.23:003][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.07-16.15.23:044][  0]LogCollectionManager: Loaded 0 collections in 0.001542 seconds
+[2018.12.07-16.15.23:073][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Collections/' took 0.01s
+[2018.12.07-16.15.23:073][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FrameworkTemplate
+[2018.12.07-16.15.23:073][  0]LogTemp: CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.07-16.15.23:073][  0]LogTemp: Initial Dir: A:\Game Design\UE4\Epic Games\UE_4.21
+[2018.12.07-16.15.23:073][  0]LogTemp: Env CWD: A:\Game Design\UE4\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.07-16.15.23:073][  0]LogTemp: BranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = DESKTOP-N53GCT6/A/Game Design/UE4/Epic Games/UE_4.21/Engine/Binaries
+[2018.12.07-16.15.23:073][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Developers/death/Collections/' took 0.01s
+[2018.12.07-16.15.23:073][  0]LogFileCache: Scanning file cache for directory 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Collections/' took 0.00s
+[2018.12.07-16.15.23:073][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.07-16.15.23:083][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\death\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.07-16.15.23:083][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2651 classes and 620 folders.
+[2018.12.07-16.15.23:089][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.07-16.15.23:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:117][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.07-16.15.23:210][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.07-16.15.23:223][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.12.07-16.15.23:232][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2018.12.07-16.15.23:250][  0]LogSlate: Took 0.001073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.07-16.15.23:251][  0]LogSlate: Took 0.000801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.07-16.15.23:392][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.07-16.15.23:393][  0]LogLoad: (Engine Initialization) Total time: 13.80 seconds
+[2018.12.07-16.15.23:393][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.07-16.15.23:908][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 9 NumSamples 1 (Frame:1).
+[2018.12.07-16.15.23:908][  0]LogAssetRegistry: Asset discovery search completed in 8.7910 seconds
+[2018.12.07-16.15.23:909][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.07-16.15.23:909][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2018.12.07-16.15.23:910][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.07-16.21.26:398][456]LogSlate: Took 0.000637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.07-16.21.26:407][456]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu
+[2018.12.07-16.21.26:850][456]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2018.12.07-16.21.28:032][456]LogSlate: Took 0.000732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.07-16.21.29:892][613]LogSlate: Window 'WBP_MainMenu*' being destroyed
+[2018.12.07-16.21.37:373][504]LogSlate: Took 0.002327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample_C:WidgetTree.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WidgetTree:GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_MainMenu_C_7:WidgetTree.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WBP_MainMenu_C_2:WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_0.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_2.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_3.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_4.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_5.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_6.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_7.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_8.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:164][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_9.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:165][986]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_10.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.20:165][986]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190.GridSlot_0) from referencer (WBPF_Button_C /Engine/UMG/Editor/Transient.WBPF_LoadGame).  Import failed...
+[2018.12.07-16.24.20:165][986]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_190.GridSlot_0"''
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample_C:WidgetTree.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WidgetTree:GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_MainMenu_C_7:WidgetTree.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WBP_MainMenu_C_2:WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_0.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_2.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_3.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:301][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_4.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_5.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_6.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_7.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_8.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_9.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_10.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_11.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.25:302][583]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190.GridSlot_0) from referencer (WBPF_Button_C /Engine/UMG/Editor/Transient.WBPF_LoadGame).  Import failed...
+[2018.12.07-16.24.25:302][583]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_190.GridSlot_0"''
+[2018.12.07-16.24.30:461][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample_C:WidgetTree.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WidgetTree:GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_MainMenu_C_7:WidgetTree.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WBP_MainMenu_C_2:WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_0.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_2.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_3.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_4.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_5.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_6.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_7.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_8.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_9.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_10.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_11.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_12.WidgetTree_0.GridPanel_190
+[2018.12.07-16.24.30:462][178]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190.GridSlot_0) from referencer (WBPF_Button_C /Engine/UMG/Editor/Transient.WBPF_LoadGame).  Import failed...
+[2018.12.07-16.24.30:462][178]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_190.GridSlot_0"''
+[2018.12.07-16.26.15:953][606]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.26.15:986][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_1" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_1
+[2018.12.07-16.26.15:986][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_2" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_2
+[2018.12.07-16.26.15:986][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_3" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_3
+[2018.12.07-16.26.15:986][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_4" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_4
+[2018.12.07-16.26.15:986][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_5" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_5
+[2018.12.07-16.26.15:987][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_0" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_0
+[2018.12.07-16.26.15:987][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_1" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_1
+[2018.12.07-16.26.15:987][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_2" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_2
+[2018.12.07-16.26.15:988][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_2" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_2
+[2018.12.07-16.26.15:988][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_1" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_1
+[2018.12.07-16.26.15:988][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_0" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_0
+[2018.12.07-16.26.15:989][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 0  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:989][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 1  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:989][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 2  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 2  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 1  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 0  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 5  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 4  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 3  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 2  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.15:990][606]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 1  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.16:151][606]LogBlueprint: Warning: [Compiler WBP_MainMenu] [0666.56] Compile of WBP_MainMenu failed. 11 Fatal Issue(s) 11 Warning(s) [in 197 ms] (/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu)
+[2018.12.07-16.26.18:816][903]LogSlate: Took 0.000640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.07-16.26.57:376][276]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.26.57:407][276]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_4" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_4
+[2018.12.07-16.26.57:407][276]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Button_5" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Button_5
+[2018.12.07-16.26.57:408][276]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_0" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_0
+[2018.12.07-16.26.57:408][276]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_1" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_1
+[2018.12.07-16.26.57:409][276]LogBlueprint: Warning: [Compiler WBP_MainMenu] Could not find a variable named "WBPF_Slider_2" in 'WBP_MainMenu_C'.
+Make sure 'WBP_MainMenu_C' has been compiled for  Get WBPF_Slider_2
+[2018.12.07-16.26.57:410][276]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 2  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.57:410][276]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 1  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.57:410][276]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Slider 0  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.57:410][276]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 5  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.57:410][276]LogBlueprint: Error: [Compiler WBP_MainMenu] The property associated with  WBPF Button 4  could not be found in '/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C'
+[2018.12.07-16.26.57:455][276]LogBlueprint: Warning: [Compiler WBP_MainMenu] [0707.86] Compile of WBP_MainMenu failed. 5 Fatal Issue(s) 5 Warning(s) [in 79 ms] (/Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu)
+[2018.12.07-16.28.03:068][834]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.28.37:261][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.026
+[2018.12.07-16.28.37:265][198]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base/Core/Widgets/WBP_MainMenu] ([1] browsable assets)...
+[2018.12.07-16.28.37:265][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base/Core/Widgets/WBP_MainMenu]
+[2018.12.07-16.28.37:306][198]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_MainMenu_Auto14AC6CD6F4640CDB1FC91EF8AB802BA7B.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Autosaves/Game/Base/Core/Widgets/WBP_MainMenu_Auto1.uasset'
+[2018.12.07-16.28.37:308][198]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.12.07-16.31.06:333][527]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.31.20:683][214]LogRenderer: Reallocating scene render targets to support 1616x816 Format 9 NumSamples 1 (Frame:1).
+[2018.12.07-16.31.30:171][297]LogAIModule: Creating AISystem for world 00_MainMenu_P
+[2018.12.07-16.31.30:183][297]LogAssetEditorManager: Opening Asset editor for World /Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P
+[2018.12.07-16.31.31:195][297]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-16.31.31:202][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_MainMenu" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2018.12.07-16.31.31:242][297]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_MainMenuC734FE194FEF76D38BA88DB37D4007CA.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset'
+[2018.12.07-16.31.31:246][297]Cmd: MAP LOAD FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/MainMenu/00_MainMenu_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.07-16.31.31:246][297]LightingResults: New page: Lighting Build
+[2018.12.07-16.31.31:252][297]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2018.12.07-16.31.31:256][297]LoadErrors: New page: Loading map: 00_MainMenu_P.umap
+[2018.12.07-16.31.31:257][297]MapCheck: New page: Map Check
+[2018.12.07-16.31.31:257][297]LightingResults: New page: Lighting Build
+[2018.12.07-16.31.31:290][297]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Base/Maps/MainMenu/01_MainMenu_Geo) is flushing async loading
+[2018.12.07-16.31.31:290][297]LogStreaming: Display: Flushing async loaders.
+[2018.12.07-16.31.31:876][297]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.07-16.31.31:919][297]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.07-16.31.31:920][297]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2018.12.07-16.31.31:920][297]LogFileHelpers: Loading map '00_MainMenu_P' took 0.675
+[2018.12.07-16.31.44:858][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-16.31.46:513][926]LogLinker: Warning: Can't find file '/Game/Core/GameModes/BP_GM_MainMenu'
+[2018.12.07-16.31.46:513][926]LogLinker: Warning: Can't find file '/Game/Core/GameModes/BP_GM_MainMenu'
+[2018.12.07-16.31.46:513][926]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Core/GameModes/BP_GM_MainMenu.BP_GM_MainMenu_C'
+[2018.12.07-16.31.46:518][926]LogLinker: Warning: Can't find file '/Game/Core/Base/BP_GameInstanceBase'
+[2018.12.07-16.31.46:518][926]LogLinker: Warning: Can't find file '/Game/Core/Base/BP_GameInstanceBase'
+[2018.12.07-16.31.46:519][926]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Core/Base/BP_GameInstanceBase.BP_GameInstanceBase_C'
+[2018.12.07-16.31.58:623][104]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/00_MainMenu_P44FDA9EF4F48E09310B82A8A42A80721.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/MainMenu/00_MainMenu_P.umap'
+[2018.12.07-16.31.58:641][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Maps/MainMenu/00_MainMenu_P_BuiltData" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/MainMenu/00_MainMenu_P_BuiltData.uasset" SILENT=true
+[2018.12.07-16.31.58:658][104]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/00_MainMenu_P_BuiltData7593848948D3B2A075705284989E64A4.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/MainMenu/00_MainMenu_P_BuiltData.uasset'
+[2018.12.07-16.33.28:982][546]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.34.14:173][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_MainMenu" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2018.12.07-16.34.14:212][190]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_MainMenuCA83C5524115591ACCBE7CA0F2371309.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset'
+[2018.12.07-16.35.07:359][239]LogMetaData: Removing '/Game/Base/Core/Widgets/Options/WBP_Options.SKEL_WBP_Options_C' ref from Metadata '/Game/Base/Core/Widgets/Options/WBP_MainMenu.PackageMetaData'
+[2018.12.07-16.35.07:359][239]LogMetaData: Removing '/Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options_C' ref from Metadata '/Game/Base/Core/Widgets/Options/WBP_MainMenu.PackageMetaData'
+[2018.12.07-16.35.07:377][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Options" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Options.uasset" SILENT=true
+[2018.12.07-16.35.07:412][239]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Options8166F22A478A0D656E5627851E479BA3.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Options.uasset'
+[2018.12.07-16.35.10:886][605]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample_C:WidgetTree.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options_C:WidgetTree.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_3.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_MainMenu_C_47:WidgetTree.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_0.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_6.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:421][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_5.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_4.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_2.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_49.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_51.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_58.WidgetTree_0.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options:WidgetTree.GridPanel_190
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_58.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_3.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_1.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.REINST_WBP_MainMenu_C_47:WidgetTree.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_49.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_0.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_51.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_2.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_4.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_5.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options_C:WidgetTree.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Engine/Transient.World_4:WBP_Options_C_6.WidgetTree_0.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3 or GridSlot /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options:WidgetTree.GridPanel_190.GridSlot_3
+[2018.12.07-16.36.57:422][362]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_3) from referencer (WBPF_Button_C /Engine/UMG/Editor/Transient.Video).  Import failed...
+[2018.12.07-16.36.57:422][362]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_190.GridSlot_3"''
+[2018.12.07-16.37.53:290][767]BlueprintLog: New page: Compile WBP_Options
+[2018.12.07-16.39.04:821][126]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Button3  and was replaced as a Custom Event!
+[2018.12.07-16.40.10:858][909]BlueprintLog: New page: Compile WBP_Options
+[2018.12.07-16.41.50:372][522]BlueprintLog: New page: Compile WBP_Options
+[2018.12.07-16.42.14:764][359]BlueprintLog: New page: Compile WBP_Options
+[2018.12.07-16.42.44:352][717]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-16.42.44:371][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Options" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Options.uasset" SILENT=true
+[2018.12.07-16.42.44:418][717]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_OptionsA0D10D114B7750141F05C7BA86B1A366.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Options.uasset'
+[2018.12.07-16.43.02:282][669]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/WBP_Template.WBP_Template
+[2018.12.07-16.43.55:023][742]BlueprintLog: New page: Compile WBP_Template
+[2018.12.07-16.44.09:295][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_Template" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_Template.uasset" SILENT=true
+[2018.12.07-16.44.09:321][419]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Template4E7ECDC942DFC1CD37577B84EE8659CE.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_Template.uasset'
+[2018.12.07-16.44.34:817][205]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Base/Core/Engine/BP_GameInstanceBase.BP_GameInstanceBase
+[2018.12.07-16.45.04:462][432]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.07-16.45.46:717][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Base/Maps/MainMenu/00_MainMenu_P' took 0.036
+[2018.12.07-16.45.46:719][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base/Core/Engine/BP_GameInstanceBase] ([1] browsable assets)...
+[2018.12.07-16.45.46:719][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base/Core/Engine/BP_GameInstanceBase]
+[2018.12.07-16.45.46:761][626]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBase_Auto2EE021588406EF2A9E7267E9708CBEA3F.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Autosaves/Game/Base/Core/Engine/BP_GameInstanceBase_Auto2.uasset'
+[2018.12.07-16.45.46:764][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base/Core/Widgets/Options/WBP_Template] ([1] browsable assets)...
+[2018.12.07-16.45.46:764][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base/Core/Widgets/Options/WBP_Template]
+[2018.12.07-16.45.46:789][626]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Template_Auto27236CF524EE5CB0E7B8514ACC8E117FF.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Autosaves/Game/Base/Core/Widgets/Options/WBP_Template_Auto2.uasset'
+[2018.12.07-16.45.46:791][626]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.12.07-16.46.19:058][863]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen
+[2018.12.07-16.50.00:976][444]BlueprintLog: New page: Compile WBP_LoadingScreen
+[2018.12.07-16.50.00:990][444]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] Could not find a variable named "Back" in 'WBP_LoadingScreen_C'.
+Make sure 'WBP_LoadingScreen_C' has been compiled for  Get Back
+[2018.12.07-16.50.00:990][444]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] Could not find a variable named "Back" in 'WBP_LoadingScreen_C'.
+Make sure 'WBP_LoadingScreen_C' has been compiled for  Get Back
+[2018.12.07-16.50.00:991][444]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] Could not find a variable named "Back" in 'WBP_LoadingScreen_C'.
+Make sure 'WBP_LoadingScreen_C' has been compiled for  Get Back
+[2018.12.07-16.50.00:991][444]LogBlueprint: Error: [Compiler WBP_LoadingScreen] The property associated with  Back  could not be found in '/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen_C'
+[2018.12.07-16.50.00:991][444]LogBlueprint: Error: [Compiler WBP_LoadingScreen] The property associated with  Back  could not be found in '/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen_C'
+[2018.12.07-16.50.00:991][444]LogBlueprint: Error: [Compiler WBP_LoadingScreen] The property associated with  Back  could not be found in '/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen_C'
+[2018.12.07-16.50.01:244][444]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] [2091.65] Compile of WBP_LoadingScreen failed. 3 Fatal Issue(s) 3 Warning(s) [in 268 ms] (/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen)
+[2018.12.07-16.50.16:752][257]BlueprintLog: New page: Compile WBP_LoadingScreen
+[2018.12.07-16.50.16:762][257]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] Could not find a variable named "Back" in 'WBP_LoadingScreen_C'.
+Make sure 'WBP_LoadingScreen_C' has been compiled for  Get Back
+[2018.12.07-16.50.16:762][257]LogBlueprint: Error: [Compiler WBP_LoadingScreen] The property associated with  Back  could not be found in '/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen_C'
+[2018.12.07-16.50.16:806][257]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] [2107.21] Compile of WBP_LoadingScreen failed. 1 Fatal Issue(s) 1 Warning(s) [in 53 ms] (/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen)
+[2018.12.07-16.50.26:083][354]BlueprintLog: New page: Compile WBP_LoadingScreen
+[2018.12.07-16.50.26:089][354]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] Could not find a variable named "Back" in 'WBP_LoadingScreen_C'.
+Make sure 'WBP_LoadingScreen_C' has been compiled for  Get Back
+[2018.12.07-16.50.26:089][354]LogBlueprint: Error: [Compiler WBP_LoadingScreen] The property associated with  Back  could not be found in '/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen_C'
+[2018.12.07-16.50.26:129][354]LogBlueprint: Warning: [Compiler WBP_LoadingScreen] [2116.53] Compile of WBP_LoadingScreen failed. 1 Fatal Issue(s) 1 Warning(s) [in 45 ms] (/Game/Base/Core/Widgets/WBP_LoadingScreen.WBP_LoadingScreen)
+[2018.12.07-16.50.35:262][437]BlueprintLog: New page: Compile WBP_LoadingScreen
+[2018.12.07-16.50.41:101][ 97]BlueprintLog: New page: Compile WBP_LoadingScreen
+[2018.12.07-16.50.41:759][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_LoadingScreen" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_LoadingScreen.uasset" SILENT=true
+[2018.12.07-16.50.41:770][168]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_LoadingScreen96F9875647D57D76F0CC3E99405C817B.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_LoadingScreen.uasset'
+[2018.12.07-16.50.53:156][512]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.07-16.51.02:465][599]BlueprintLog: New page: Compile BP_GameInstanceBase
+[2018.12.07-16.51.14:330][901]LogMetaData: Removing '/Game/Base/Core/Widgets/Options/WBP_Gameplay.SKEL_WBP_Gameplay_C' ref from Metadata '/Game/Base/Core/Widgets/Options/WBP_Template.PackageMetaData'
+[2018.12.07-16.51.14:330][901]LogMetaData: Removing '/Game/Base/Core/Widgets/Options/WBP_Gameplay.WBP_Gameplay_C' ref from Metadata '/Game/Base/Core/Widgets/Options/WBP_Template.PackageMetaData'
+[2018.12.07-16.51.14:350][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Gameplay" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Gameplay.uasset" SILENT=true
+[2018.12.07-16.51.14:375][901]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_GameplayD2A730C347C5EA9D70FFA192C532FAB9.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Gameplay.uasset'
+[2018.12.07-16.51.15:079][943]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/Options/WBP_Gameplay.WBP_Gameplay
+[2018.12.07-16.51.24:243][969]BlueprintLog: New page: Compile WBP_Gameplay
+[2018.12.07-16.51.24:781][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Gameplay" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Gameplay.uasset" SILENT=true
+[2018.12.07-16.51.24:810][ 10]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Gameplay6FB7A2B04918E47A1D2F51A949945637.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Gameplay.uasset'
+[2018.12.07-16.51.46:754][463]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/Options/WBP_Audio.WBP_Audio
+[2018.12.07-16.51.55:004][372]BlueprintLog: New page: Compile WBP_Audio
+[2018.12.07-16.52.01:854][985]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-16.52.01:876][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Engine/BP_GameInstanceBase" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset" SILENT=true
+[2018.12.07-16.52.01:923][985]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBase7B4886554B07E0063AB061AB9495789E.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset'
+[2018.12.07-16.52.01:930][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Audio" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Audio.uasset" SILENT=true
+[2018.12.07-16.52.01:954][985]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Audio31884B20465F9A9BBDC03099DB4C019A.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Audio.uasset'
+[2018.12.07-16.52.40:513][ 24]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/Options/WBP_Graphics.WBP_Graphics
+[2018.12.07-16.52.48:162][602]BlueprintLog: New page: Compile WBP_Graphics
+[2018.12.07-16.53.06:883][102]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-16.53.06:902][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Controls" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Controls.uasset" SILENT=true
+[2018.12.07-16.53.06:928][102]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Controls2BA8C3EF4EEE10A3820EE1A41D540FEA.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Controls.uasset'
+[2018.12.07-16.53.06:934][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Options/WBP_Graphics" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Graphics.uasset" SILENT=true
+[2018.12.07-16.53.06:959][102]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Graphics3B7AADD9469054F8F2EA2EB48E96E593.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Options/WBP_Graphics.uasset'
+[2018.12.07-16.53.10:531][294]LogSlate: Window 'WBP_Options' being destroyed
+[2018.12.07-16.53.14:730][769]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.07-16.53.30:078][491]BlueprintLog: New page: Compile BP_GameInstanceBase
+[2018.12.07-16.54.03:875][189]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/WBP_SaveLoad.WBP_SaveLoad
+[2018.12.07-16.54.18:460][836]BlueprintLog: New page: Compile WBP_SaveLoad
+[2018.12.07-16.54.19:229][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_SaveLoad" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_SaveLoad.uasset" SILENT=true
+[2018.12.07-16.54.19:253][885]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_SaveLoadCDC9FA70408692B044159894757B8EC3.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_SaveLoad.uasset'
+[2018.12.07-16.55.04:221][928]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/WBP_Multiplayer.WBP_Multiplayer
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_19.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_3.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_7.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_8.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_MainMenu_C_47:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_Template.WBP_Template:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Gameplay.WBP_Gameplay_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Gameplay.WBP_Gameplay:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_15.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_14.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Options_C_64:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_10.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_9.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_6.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_5.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:778][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_4.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_2.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_49.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_9.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_7.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_51.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WBP_Multiplayer_C_2:WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_8.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_20.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_12:WBP_Gameplay_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_16.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Options_C_69:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Options_C_72:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_4:WBP_Options_C_51.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Gameplay_C_123:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_16:WBP_Graphics_C_10.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_2.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:779][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_3.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_4.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_5.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_6.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_11.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_10.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_12.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_13.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_14.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_6:WBP_Template_C_15.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Template_C_91:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_Template.WBP_Template_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Audio.WBP_Audio:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_16:WBP_Graphics_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.WidgetTree:GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_Multiplayer.WBP_Multiplayer:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_LoadingScreen_C_104:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Controls.WBP_Controls:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_14:WBP_Audio_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Audio_C_129:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Audio.WBP_Audio_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Graphics.WBP_Graphics:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_2:WBP_MainMenu_C_90.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Graphics_C_135:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Graphics.WBP_Graphics_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_SaveLoad.WBP_SaveLoad:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/Options/WBP_Controls.WBP_Controls_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_Multiplayer_C_156:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_Multiplayer.WBP_Multiplayer_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:780][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_18:WBP_SaveLoad_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.REINST_WBP_SaveLoad_C_152:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Game/Base/Core/Widgets/WBP_SaveLoad.WBP_SaveLoad_C:WidgetTree.GridPanel_190
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_20:WBP_Multiplayer_C_0.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/Base/Core/Widgets/WBP_NavExample.WBP_NavExample:WidgetTree.GridPanel_190 or GridPanel /Engine/Transient.World_20:WBP_Multiplayer_C_1.WidgetTree_0.GridPanel_190
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu_C:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_8.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_7.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_19.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_6.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_4.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_2.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.REINST_WBP_Options_C_69:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_16.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_14.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Game/Base/Core/Widgets/WBP_MainMenu.WBP_MainMenu:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_5.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_3.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_1.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.REINST_WBP_MainMenu_C_47:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_49.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_6:WBP_Template_C_2.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_51.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Game/Base/Core/Widgets/WBP_Template.WBP_Template:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_9.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_10.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.REINST_WBP_Options_C_64:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_20.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_51.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_4:WBP_Options_C_15.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options_C:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.REINST_WBP_Options_C_72:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_90.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.REINST_WBP_Template_C_91:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Game/Base/Core/Widgets/Options/WBP_Options.WBP_Options:WidgetTree.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogUObjectHash: Warning: Ambiguous search, could be GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2 or GridSlot /Engine/Transient.World_6:WBP_Template_C_3.WidgetTree_0.GridPanel_190.GridSlot_2
+[2018.12.07-16.55.42:781][432]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Engine/Transient.World_2:WBP_MainMenu_C_50.WidgetTree_0.GridPanel_190.GridSlot_2) from referencer (WBPF_Button_C /Engine/UMG/Editor/Transient.WBPF_NewGame).  Import failed...
+[2018.12.07-16.55.42:781][432]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_190.GridSlot_2"''
+[2018.12.07-16.56.25:443][136]LogSlate: Took 0.000932 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.07-16.56.38:024][570]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  Button3  and was replaced as a Custom Event!
+[2018.12.07-16.57.27:368][161]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.58.24:981][782]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.58.25:626][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_MainMenu" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2018.12.07-16.58.25:675][841]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_MainMenu59D4E5074889502F87D15489EF1D8ABA.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset'
+[2018.12.07-16.59.00:221][957]BlueprintLog: New page: Compile WBP_MainMenu
+[2018.12.07-16.59.00:908][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_MainMenu" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset" SILENT=true
+[2018.12.07-16.59.00:947][ 21]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_MainMenu136F556546B5C04875155890C9ECAB69.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_MainMenu.uasset'
+[2018.12.07-16.59.03:132][261]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.07-16.59.08:552][858]BlueprintLog: New page: Compile BP_GameInstanceBase
+[2018.12.07-16.59.12:523][118]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-16.59.12:542][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Engine/BP_GameInstanceBase" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset" SILENT=true
+[2018.12.07-16.59.12:593][118]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBase461F06A9498E1A9F1AC073879B6E68DE.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset'
+[2018.12.07-16.59.12:600][118]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/WBP_Multiplayer" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_Multiplayer.uasset" SILENT=true
+[2018.12.07-16.59.12:624][118]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_Multiplayer259D96BB4B562DA2A8C396BF5E1F9879.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/WBP_Multiplayer.uasset'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:OnMouseButtonUp' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:Back' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:Buttons' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:DefaultButtonStyle' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:FocusedButtonStyle' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:GameInstance' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C:Construct' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.SKEL_WBP_Multiplayer_C' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:GameInstance' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:FocusedButtonStyle' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:DefaultButtonStyle' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:Buttons' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:Back' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:Construct' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:424][120]LogMetaData: Removing '/Game/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.WBP_Multiplayer_C:OnMouseButtonUp' ref from Metadata '/Game/Base/Core/Widgets/WBP_Multiplayer.PackageMetaData'
+[2018.12.07-16.59.22:470][120]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_MultiplayerC1D6F8534954CC8EF8BA13BCA59F78D1.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Multiplayer/WBP_Multiplayer.uasset'
+[2018.12.07-16.59.22:706][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Engine/BP_GameInstanceBase" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset" SILENT=true
+[2018.12.07-16.59.22:746][120]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBaseA36CC6E647EB2CD0E1DB5DAC3AD79761.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset'
+[2018.12.07-16.59.36:391][559]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/Multiplayer/WBP_ServerBrowser.WBP_ServerBrowser
+[2018.12.07-16.59.48:164][783]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Base/Core/Widgets/Multiplayer/WBP_HostGame.WBP_HostGame
+[2018.12.07-17.00.10:557][258]BlueprintLog: New page: Compile WBP_HostGame
+[2018.12.07-17.00.35:229][133]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Base/Maps/MainMenu/00_MainMenu_P' took 0.039
+[2018.12.07-17.00.35:231][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base/Core/Widgets/Multiplayer/WBP_ServerBrowser] ([1] browsable assets)...
+[2018.12.07-17.00.35:231][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base/Core/Widgets/Multiplayer/WBP_ServerBrowser]
+[2018.12.07-17.00.35:255][133]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_ServerBrowser_Auto3C5F3F18E4E97D82D428CFFBA72442797.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Autosaves/Game/Base/Core/Widgets/Multiplayer/WBP_ServerBrowser_Auto3.uasset'
+[2018.12.07-17.00.35:257][133]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base/Core/Widgets/Multiplayer/WBP_HostGame] ([1] browsable assets)...
+[2018.12.07-17.00.35:257][133]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base/Core/Widgets/Multiplayer/WBP_HostGame]
+[2018.12.07-17.00.35:284][133]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_HostGame_Auto3B89267294D103BB4D17DCD8E50CC97C5.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Autosaves/Game/Base/Core/Widgets/Multiplayer/WBP_HostGame_Auto3.uasset'
+[2018.12.07-17.00.35:287][133]LogFileHelpers: Auto-saving content packages took 0.056
+[2018.12.07-17.00.40:114][507]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-17.00.40:134][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Widgets/Multiplayer/WBP_HostGame" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Multiplayer/WBP_HostGame.uasset" SILENT=true
+[2018.12.07-17.00.40:161][507]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_HostGameC6B229A9463098412F5904A83F59A9E8.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Multiplayer/WBP_HostGame.uasset'
+[2018.12.07-17.00.40:192][507]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/WBP_ServerBrowserA4BAB02546CBC2A58B6CF999C27BF97C.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Widgets/Multiplayer/WBP_ServerBrowser.uasset'
+[2018.12.07-17.00.45:573][ 35]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.07-17.01.01:536][740]BlueprintLog: New page: Compile BP_GameInstanceBase
+[2018.12.07-17.10.35:554][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Base/Maps/MainMenu/00_MainMenu_P' took 0.043
+[2018.12.07-17.10.35:555][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Base/Core/Engine/BP_GameInstanceBase] ([1] browsable assets)...
+[2018.12.07-17.10.35:555][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/Base/Core/Engine/BP_GameInstanceBase]
+[2018.12.07-17.10.35:601][745]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBase_Auto4E0E2079A4676EFAE6088A3A8F17B6D65.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/Autosaves/Game/Base/Core/Engine/BP_GameInstanceBase_Auto4.uasset'
+[2018.12.07-17.10.35:603][745]LogFileHelpers: Auto-saving content packages took 0.048
+[2018.12.07-17.23.46:713][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.07-17.23.47:978][648]LogSlate: Window 'Save Content' being destroyed
+[2018.12.07-17.23.47:997][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Engine/BP_GameInstanceBase" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset" SILENT=true
+[2018.12.07-17.23.48:045][648]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBase59240FF14111134D558D3793F224195E.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset'
+[2018.12.07-23.19.23:737][ 85]LogHttp: Warning: 0000028829A4D300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.07-23.19.23:739][ 85]LogHttp: Warning: 0000028829A4D300: libcurl info message cache 0 (Connection 198 seems to be dead!)
+[2018.12.07-23.19.23:740][ 85]LogHttp: Warning: 0000028829A4D300: libcurl info message cache 1 (Closing connection 198)
+[2018.12.07-23.19.23:740][ 85]LogHttp: Warning: 0000028829A4D300: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.12.07-23.19.23:740][ 85]LogHttp: Warning: 0000028829A4D300: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.07-23.19.23:740][ 85]LogHttp: Warning: 0000028829A4D300: libcurl info message cache 4 (Closing connection 199)
+[2018.12.07-23.19.24:067][ 86]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0CA0184F-4998-7EDC-4D13-30B84B4FF09B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=a2af95544f0938fc35241bbea866488e%7C4a680e3ea4b04fcfb5b075835c5b546b%7Cd27101be-b892-4db8-97d0-a064c037c236&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.12.08-01.38.23:415][899]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.805 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.08-08.38.22:453][925]LogRenderer: Reallocating scene render targets to support 1616x876 Format 9 NumSamples 1 (Frame:2729).
+[2018.12.08-11.41.11:014][ 10]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.08-11.41.11:138][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P' with GeneratedClass '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P'
+[2018.12.08-11.41.11:138][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo' with GeneratedClass '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo'
+[2018.12.08-11.41.11:139][ 10]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.08-11.41.11:163][ 10]LogPlayLevel: [PlayLevel] Compiling WBP_Multiplayer before play...
+[2018.12.08-11.41.11:627][ 10]LogPlayLevel: [PlayLevel] Compiling WBP_ServerBrowser before play...
+[2018.12.08-11.41.11:904][ 10]LogPlayLevel: PlayLevel: Blueprint regeneration took 764 ms (2 blueprints)
+[2018.12.08-11.41.11:905][ 10]PIE: New page: PIE session: 00_MainMenu_P (Dec 7, 2018, 11:41:11 PM)
+[2018.12.08-11.41.11:990][ 10]LogPlayLevel: Creating play world package: /Game/Base/Maps/MainMenu/UEDPIE_0_00_MainMenu_P
+[2018.12.08-11.41.12:195][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.204276s)
+[2018.12.08-11.41.12:197][ 10]LogAIModule: Creating AISystem for world 00_MainMenu_P
+[2018.12.08-11.41.12:198][ 10]LogPlayLevel: PIE: World Init took: (0.002666s)
+[2018.12.08-11.41.12:198][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P to /Game/Base/Maps/MainMenu/UEDPIE_0_00_MainMenu_P.00_MainMenu_P (0.207489s)
+[2018.12.08-11.41.12:254][ 10]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.08-11.41.12:262][ 10]LogInit: FAudioDevice initialized.
+[2018.12.08-11.41.12:309][ 10]LogLoad: Game class is 'BP_GM_MainMenu_C'
+[2018.12.08-11.41.12:311][ 10]LogWorld: Bringing World /Game/Base/Maps/MainMenu/UEDPIE_0_00_MainMenu_P.00_MainMenu_P up for play (max tick rate 0) at 2018.12.08-05.41.12
+[2018.12.08-11.41.12:312][ 10]LogWorld: Bringing up level for play took: 0.001669
+[2018.12.08-11.41.12:346][ 10]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 20 classes and 0 folders.
+[2018.12.08-11.41.12:347][ 10]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.12.08-11.41.12:347][ 10]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.12.08-11.41.12:347][ 10]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.12.08-11.41.12:353][ 10]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.12.08-11.41.12:354][ 10]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.12.08-11.41.12:354][ 10]PIE: Play in editor start time for /Game/Base/Maps/MainMenu/UEDPIE_0_00_MainMenu_P 2.218
+[2018.12.08-11.41.12:354][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P' with GeneratedClass '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P'
+[2018.12.08-11.41.12:354][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo' with GeneratedClass '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo'
+[2018.12.08-11.41.12:539][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-11.41.13:231][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-11.41.32:540][869]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.12.08-11.41.32:576][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-11.41.33:952][  2]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.12.08-11.41.34:053][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-11.41.34:705][ 73]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2018.12.08-11.41.34:798][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-11.41.35:338][135]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'InternalMapNameArray' of length 0 in '/Game/Base/Core/Engine/BP_GameInstanceBase.BP_GameInstanceBase_C'!
+[2018.12.08-11.41.35:538][135]LogPackageName: SearchForPackageOnDisk took   0.185s, but failed to resolve None.umap.
+[2018.12.08-11.41.35:540][135]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2018.12.08-11.41.35:540][135]LogGameState: Match State Changed from InProgress to LeavingMap
+[2018.12.08-11.41.35:724][135]LogPackageName: SearchForPackageOnDisk took   0.184s, but failed to resolve None.umap.
+[2018.12.08-11.41.35:724][135]LogNet: Browse: /Game/Base/Maps/MainMenu/00_MainMenu_P
+[2018.12.08-11.41.35:724][135]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/Base/Maps/MainMenu/00_MainMenu_P
+[2018.12.08-11.41.35:724][135]LogNet: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Base/Maps/MainMenu/00_MainMenu_P'. Shutting down PIE.
+[2018.12.08-11.41.35:724][135]PIE: Warning: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/Base/Maps/MainMenu/00_MainMenu_P'. Shutting down PIE.
+[2018.12.08-11.41.35:724][135]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/Base/Maps/MainMenu/00_MainMenu_P
+[2018.12.08-11.41.35:724][135]LogNet: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Base/Maps/MainMenu/00_MainMenu_P'. Shutting down PIE.
+[2018.12.08-11.41.35:724][135]PIE: Warning: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/Base/Maps/MainMenu/00_MainMenu_P'. Shutting down PIE.
+[2018.12.08-11.41.35:725][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P' with GeneratedClass '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P'
+[2018.12.08-11.41.35:725][135]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo' with GeneratedClass '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo'
+[2018.12.08-11.41.35:726][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-11.41.35:766][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.08-11.41.35:766][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P' with GeneratedClass '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/00_MainMenu_P.00_MainMenu_P:PersistentLevel.00_MainMenu_P'
+[2018.12.08-11.41.35:766][135]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel' has LevelScriptBlueprint '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo' with GeneratedClass '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo_C' with ClassGeneratedBy '/Game/Base/Maps/MainMenu/01_MainMenu_Geo.01_MainMenu_Geo:PersistentLevel.01_MainMenu_Geo'
+[2018.12.08-11.41.35:810][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-11.41.35:858][136]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.08-11.42.06:430][964]LogSlate: Window 'BP_GameInstanceBase*' being destroyed
+[2018.12.08-11.42.52:499][912]LogSlate: Window 'New Level' being destroyed
+[2018.12.08-11.42.52:509][912]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/VR-Basic.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.08-11.42.52:533][912]LightingResults: New page: Lighting Build
+[2018.12.08-11.42.52:613][912]LoadErrors: New page: Loading map: VR-Basic.umap
+[2018.12.08-11.42.52:619][912]MapCheck: New page: Map Check
+[2018.12.08-11.42.52:619][912]LightingResults: New page: Lighting Build
+[2018.12.08-11.42.53:162][912]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.08-11.42.53:254][912]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.08-11.42.53:303][912]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.08-11.42.53:303][912]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2018.12.08-11.42.53:303][912]LogFileHelpers: Loading map 'VR-Basic' took 0.797
+[2018.12.08-11.43.01:589][491]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.08-11.43.15:745][491]LogSlate: Window 'Save Level As' being destroyed
+[2018.12.08-11.43.15:819][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Maps/Map01/00_Map01" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/Map01/00_Map01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.08-11.43.16:028][491]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/00_Map01CA0F134947DB240D042874B32769E907.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/Map01/00_Map01.umap'
+[2018.12.08-11.43.16:047][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Maps/Map01/00_Map01_BuiltData" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/Map01/00_Map01_BuiltData.uasset" SILENT=true
+[2018.12.08-11.43.16:049][491]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/00_Map01_BuiltData4D240BDF4683EDCD62F4BC8F479DC1D0.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Maps/Map01/00_Map01_BuiltData.uasset'
+[2018.12.08-11.43.16:057][491]LogFileHelpers: Saving map '00_Map01' took 0.303
+[2018.12.08-11.43.20:059][784]LogSlate: Window 'Save Content' being destroyed
+[2018.12.08-11.43.20:079][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Base/Core/Engine/BP_GameInstanceBase" FILE="D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset" SILENT=true
+[2018.12.08-11.43.20:127][784]LogSavePackage: Moving 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Saved/BP_GameInstanceBaseD23F982A408F9F7F2E3A6BB4CC644F18.tmp' to 'D:/UE4/FrameworkTemplate/FrameworkTemplate/Content/Base/Core/Engine/BP_GameInstanceBase.uasset'
+[2018.12.08-11.43.24:691][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-11.44.35:986][866]LogLinker: Can't find file '/Game/Core/Blueprints/Base/BP_CharacterBase'
+[2018.12.08-11.44.35:986][866]LogLinker: Can't find file '/Game/Core/Blueprints/Base/BP_CharacterBase'
+[2018.12.08-11.46.02:448][308]LogLinker: Can't find file '/Game/Maps/MainMenu/00Map_MainMenu'
+[2018.12.08-11.46.02:448][308]LogLinker: Can't find file '/Game/Maps/MainMenu/00Map_MainMenu'
+[2018.12.08-11.46.13:018][218]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2018.12.08-11.46.14:042][218]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.024 s
+[2018.12.08-11.46.14:042][218]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.08-11.46.14:042][218]LogOutputDevice: Error: 
+[2018.12.08-11.46.14:042][218]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 475]
+[2018.12.08-11.46.14:042][218]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'else' on node 'Branch' not reciprocally linked with pin 'execute' on node 'Load Stream Level'
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: Stack: 
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd3188d5f UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd3188b5f UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd3188559 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd6783ee8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd6989cca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd676d3c3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd5c4dff9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd5c4dda3 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcd5c20fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcdbcf206f UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcdbd34c8e UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcc9d458f0 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcdbcb694c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcdbd3697c UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffcdbd29a36 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd02d2daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd02d20de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd02d301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd02d1ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd28976d41 USER32.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd28976713 USER32.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd02d31746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ff6466b5546 UE4Editor.exe!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ff6466c596c UE4Editor.exe!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ff6466c59ea UE4Editor.exe!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ff6466d48da UE4Editor.exe!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ff6466d659a UE4Editor.exe!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd2b0f3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: [Callstack] 0x00007ffd2b3b1471 ntdll.dll!UnknownFunction []
+[2018.12.08-11.46.14:043][218]LogOutputDevice: Error: 
+[2018.12.08-11.46.14:045][218]LogStats:                SubmitErrorReport -  0.000 s
